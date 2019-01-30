@@ -1,4 +1,4 @@
-FROM docker.io/openjdk
+FROM openjdk
  
 ADD test2-1.0-SNAPSHOT.jar app.jar
  
