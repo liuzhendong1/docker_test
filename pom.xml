@@ -46,8 +46,8 @@
              <plugin>
                  <groupId>org.springframework.boot</groupId>
                  <artifactId>spring-boot-maven-plugin</artifactId>
-                 <configuration>  
-                    <mainClass>zhkj.HelloApplication</mainClass>
+                 <configuration>  
+                    <mainClass>zhkj.HelloApplication</mainClass>
                  </configuration>
             </plugin>
             <plugin>
